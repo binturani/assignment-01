@@ -1,0 +1,95 @@
+h1 {
+    font-display: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.header {
+    background-image: url(image/donation7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 10%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-part {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.flexible-part {
+    display: flex;
+
+}
+
+.amount {
+
+    margin-left: 10%;
+    margin-bottom: 5%;
+    padding: 5px;
+    background-color: rgba(255, 235, 205, 0.11);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.another-amount {
+    background-color: palevioletred;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.plan-part {
+    width: 33%;
+    margin: 0% 2% 2% 2%;
+    padding-left: 40px;
+    background-color: rgba(0, 255, 255, 0.384);
+}
+
+.subscribe-btn {
+    background-color: crimson;
+    border: none;
+    padding: 5px;
+}
+
+h4 {
+    background-color: grey;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px 100px;
+    margin-left: 20%;
+}
+
+.input-field {
+    text-align: center;
+    background-color: rgba(233, 150, 122, 0.26);
+    padding: 40px 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
